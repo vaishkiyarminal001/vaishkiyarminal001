@@ -1,6 +1,8 @@
 <h1 align="center">Hello World 👋, I'm Minal Kumari </h1>
-<h3 align="center">A passionate developer, exploring the multiverse of 1's & 0's</h3>
-<!-- <img align="right" alt="Coding" width="400" src=""> -->
+<h3 align="center">Passionate Core Java enthusiast with proficiency in JavaScript, HTML, and CSS <br>exploring the multiverse of 1's & 0's</h3>
+<img align="right" alt="Coding" width="100%" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishkiyarminal001&label=Visitors&color=0e75b6&style=flat" alt="vaishkiyarminal001" /> </p>
 
@@ -14,6 +16,7 @@
 - 🗺️ Want to know more? Check out my **[Portfolio](https://vaishkiyarminal001.github.io/)** 🌐
 
 - ⚡ Fun fact - **I Like watching WebSeries 😎**
+<img align="right" alt="Coding" width="100" src="https://media.giphy.com/media/ZSZTGUtpQr0u7cfveB/giphy.gif">
 
 <h3 align="left">Lets talk:</h3>
 <p align="left">
@@ -29,3 +32,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaishkiyarminal001&show_icons=true&locale=en&theme=tokyonight" alt="vaishkiyarminal001" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaishkiyarminal001&&theme=tokyonight" alt="vaishkiyarminal001" /></p>
+ 
+ <img align="center" alt="Coding" width="100%" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/50cd3144-a4f0-43a8-b464-78a1714e8628/dchoqoo-c9cb91ac-14cc-49da-9ac1-5786676e8893.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzUwY2QzMTQ0LWE0ZjAtNDNhOC1iNDY0LTc4YTE3MTRlODYyOFwvZGNob3Fvby1jOWNiOTFhYy0xNGNjLTQ5ZGEtOWFjMS01Nzg2Njc2ZTg4OTMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.nNAiX6RCm94AEDVNp0-2AOI8d2xo_8TmFxcIn1Kmt0M">
