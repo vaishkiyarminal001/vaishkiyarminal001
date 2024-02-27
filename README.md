@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishkiyarminal001&label=Visitors&color=0e75b6&style=flat" alt="vaishkiyarminal001" /> </p>
 
 
-- 🔭 I’m currently learning **JAVA Back-End & Spring**
+- 🔭 Full Stack Developwr **React.js Frontend && JAVA && Spring Back-End**
  
 - 💬 Ask me about **Spring, Java, Hibernate, JavaScript, HTML, CSS, MySQL.**
 
